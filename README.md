@@ -1,2 +1,2 @@
 #How it works
-code starts at bot.js file. 
+1. code starts at bot.js file. 
