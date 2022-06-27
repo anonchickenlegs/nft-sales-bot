@@ -1,0 +1,2 @@
+class TransactionBlock < ApplicationRecord
+end

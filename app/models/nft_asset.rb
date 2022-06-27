@@ -1,0 +1,2 @@
+class NftAsset < ApplicationRecord
+end
